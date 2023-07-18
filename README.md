@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aryan kumar
 - 👀 I’m interested in learning new skills every single day.
 - 🌱 I’m currently learning  data science @iitm and Computer science  at ossu ❤️
+- https://github.com/akjcodelab
 
 
 <!---
